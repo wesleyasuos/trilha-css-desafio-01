@@ -1,0 +1,15 @@
+.banner-content{
+  text-align: center;
+}
+
+h1{
+  font-family: Raleway;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 46.96px;
+  text-align: center;
+  text-transform: uppercase;
+  background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
